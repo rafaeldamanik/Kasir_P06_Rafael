@@ -19,7 +19,7 @@ Pertemuan : 6
 3. Buka URL proyek melalui browser.
 
 URL proyek:
-http://localhost/kasir_p06_nama/
+http://localhost/Kasir_P06_Rafael/
 
 ## Struktur Berkas
 - cek.php: pemeriksaan versi PHP
